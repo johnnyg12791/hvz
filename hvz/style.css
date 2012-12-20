@@ -1,0 +1,87 @@
+		.nav-icons .ui-btn .ui-btn-inner { padding-top: 20px !important; 
+ background-image:url('buttonback.png');!important
+			background-repeat: no-repeat;!important
+
+		}
+		.nav-icons .ui-btn .ui-icon { width: 12px!important; height: 13px!important; margin-left: -6px !important; box-shadow: none!important; -moz-box-shadow: none!important; -webkit-box-shadow: none!important; -webkit-border-radius: 0 !important; border-radius: 0 !important; } 
+		
+		#home .ui-icon { background: url(img/icons/53-house.png) 50% 50% no-repeat; background-size: 12px 13px; }
+		#help .ui-icon { background: url(icons/questionmark.png) 50% 50% no-repeat; background-size: 12px 13px; }
+		#createGame .ui-icon { background:  url('img/icons/63-runner.png') 50% 50% no-repeat; background-size: 12px 13px;  }
+		#searchForGames .ui-icon { background:  url('img/icons/06-magnify.png') 50% 50% no-repeat;  background-size: 12px 13px; }
+		
+		
+		
+		.fb-title {
+		background-color:rgb(0,150,255);
+		color:#fff;
+		padding:0 12px;
+		text-shadow:-1px 1px rgb(0,50,255);
+		font-weight:bold;
+		margin-bottom:24px;
+		
+		-webkit-border-radius: 4px;
+		   -moz-border-radius: 4px;
+		        border-radius: 4px;
+	}
+	
+	.fb-message {
+		background-color:rgb(230,240,245);
+		margin-bottom:24px;
+		padding:0 12px;
+		color:#333;
+		text-shadow:-1px 1px #fff;
+		
+		-webkit-border-radius: 4px;
+		   -moz-border-radius: 4px;
+		        border-radius: 4px;
+	}
+	
+	.fb-date {
+		color:#999;
+		font-size:14px;
+		font-style:italic;
+	}
+	
+	.fb-update .fb-message:nth-child(2n) {
+		background-color:#eee;
+	}
+
+
+
+
+
+
+.ui-page .ui-content .ui-btn.menu-btn .ui-btn-inner{
+
+ background-image:url('buttonback.png');!important
+			background-repeat: no-repeat;!important
+
+
+}
+.ui-btn {
+
+    background-image:url('buttonback.png');!important
+			background-repeat: no-repeat;!important
+			color:white; !important
+}
+	.ui-page {
+		        background-image:url('bloody2.png');!important
+			background-repeat: no-repeat;!important
+		}
+.ui-header {
+		        background-image:url('buttonback.png');!important
+			background-repeat: no-repeat;!important
+		}
+body
+{
+	color:white; !important
+}
+
+h3
+{
+	color:white; !important
+}
+		
+li{ color: white; !important}
+ul{ color: white; !important}
